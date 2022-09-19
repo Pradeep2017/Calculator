@@ -88,3 +88,6 @@ if __name__ == "__main__":
     print(solve("10 * 6 + 33"))
     print(solve("70 * ( 5 + 45 ) / 10"))
     print(solve("500 * (16 + 12)/14"))
+    
+#Develop(NetworkSim-Calculatoe) a term calculator that can handle (), *, /, +, and -.    
+    
